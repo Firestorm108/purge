@@ -58,6 +58,6 @@ do research using the device, or wish to adjust power levels based on the item y
 | Custom Aluminum Base Plate | $50 | JLC CNC |
 | Silicone Isolation Feet | $20 | [Amazon](https://www.amazon.com/Isolation-Feet-8Pack-Turntable-Subwoofer-Resonance/dp/B0FX8S3D77) |
 
-## Total
 
-**$589**
+
+**Total: $589**
