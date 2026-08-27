@@ -1,5 +1,5 @@
 # purge
-**Purge** is a fully open source wireless inductively coupled plasma cleaner consisting of three isolated PCBs and a vacuum chamber: the external user-control board, STM32 based motherboard, and the spark generator/ICP driver.
+**Purge** is a fully open source wireless inductively coupled plasma cleaner consisting of three isolated PCBs; the external user-control board, STM32 based motherboard, spark generator/ICP driver, and a vaccum chamber.
 
 # PCB & Assembly
 <img width="402" height="432" alt="Screenshot 2026-08-26 at 1 35 50 PM" src="https://github.com/user-attachments/assets/ba371e15-7a31-40f3-8946-8c971e7ddf92" />
